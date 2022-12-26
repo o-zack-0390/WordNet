@@ -48,6 +48,7 @@ reverse.py
 <br>
 <br>
 参考文献
+<br>
 <ul>
   <li>
     <a href="https://bond-lab.github.io/wnja/jpn/index.html">日本語 WordNet</a>
