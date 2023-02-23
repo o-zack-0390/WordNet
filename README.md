@@ -31,9 +31,8 @@ reverse.py<br>
 ↓<br>
 ファイルの内容を消去する<br><br><br>
 
-参考文献
+<h3>参考文献</h3>
 <ul>
-  <br>
   <li>
     <a href="https://bond-lab.github.io/wnja/jpn/index.html">日本語 WordNet</a>
   </li><br>
