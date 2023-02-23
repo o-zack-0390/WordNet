@@ -14,6 +14,7 @@
 
 <h3>実装概要</h3>
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/116938721/220823584-d7a40dea-c031-48ca-b4c2-951a11b8f850.png">
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/116938721/220823700-76e8d369-4706-4f65-ad79-1123bac90bea.png">
 <br><br>
 
 
