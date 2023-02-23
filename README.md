@@ -13,6 +13,9 @@
 ・<a href="https://www.rondhuit.com/download.html">livedoorニュースコーパス</a><br><br>
 
 <h3>実装概要</h3>
+各フォルダの名前を消去した状態で次の手順を行う。<br>
+重要語分析→上位語取得→上位語出現頻度分析<br>
+出現頻度頻度が最も多い単語をフォルダ名とする。<br><br>
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/116938721/220823778-b0c338bc-4390-4db4-8a86-6eb306b7693e.png">
 <br><br>
 
