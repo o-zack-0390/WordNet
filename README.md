@@ -25,7 +25,7 @@ replace.py<br>
 up_entity.txt内で「重要語が重複している単語」の「一つ目の上位語」を削除<br><br><br>
 def_category.py<br>
 ↓<br>
-各上位語の数をカウント<br><br><br>
+各上位語の数をカウント<br><br>
 
 reverse.py<br>
 ↓<br>
