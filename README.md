@@ -12,6 +12,10 @@
 先行研究と同様のデータで実験したいためlivedoorニュースコーパスを使用する<br>
 ・<a href="https://www.rondhuit.com/download.html">livedoorニュースコーパス</a><br><br>
 
+<h3>実装概要</h3>
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/116938721/220823584-d7a40dea-c031-48ca-b4c2-951a11b8f850.png">
+<br><br>
+
 
 <h3>実験方法</h3>
 カイ二乗検定で重要語を上から100個取得<br>
