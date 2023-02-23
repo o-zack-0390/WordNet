@@ -8,6 +8,11 @@
 そこで、本実験ではWordNetを使用する方法でラベル推定を試みた。<br><br>
 
 
+<h3>実験データ</h3>
+先行研究と同様のデータで実験したいためlivedoorニュースコーパスを使用する<br>
+・<a href="https://www.rondhuit.com/download.html">livedoorニュースコーパス</a><br><br>
+
+
 <h3>各プログラムの役割</h3>
 write_exist_word.py<br>
 ↓<br>
