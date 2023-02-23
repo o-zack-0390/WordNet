@@ -1,5 +1,9 @@
 # WordNetを用いたラベル推定の実験
 「WordNetでフォルダ名を付けてみる実験」で使用したファイル<br><br><br>
+
+
+
+<h3>各プログラムの役割</h3>
 write_exist_word.py<br>
 ↓<br>
 以下の条件を全て満たす単語をexist_word.txtに登録
