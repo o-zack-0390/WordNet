@@ -13,6 +13,18 @@
 ・<a href="https://www.rondhuit.com/download.html">livedoorニュースコーパス</a><br><br>
 
 
+<h3>実験方法</h3>
+カイ二乗検定で重要語を上から100個取得<br>
+↓<br>
+取得した重要語の中で、WordNetに登録されていない単語は削除<br>
+↓<br>
+残った重要語から各重要語の上位語を取得<br>
+↓<br>
+各上位語の出現回数を計算<br>
+↓<br>
+出現回数が最も多い上位語をカテゴリー名とする<br><br>
+
+
 <h3>各プログラムの役割</h3>
 write_exist_word.py<br>
 ↓<br>
