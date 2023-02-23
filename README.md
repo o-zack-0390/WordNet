@@ -2,7 +2,9 @@
 「WordNetでフォルダ名を付けてみる実験」で使用したファイル<br><br><br>
 
 <h3>背景</h3>
-文書フォルダに適切なフォルダ名を機械的に命名する研究において、先行研究によりSVMを使用する方法では上手く命名できなかったという実験結果が示された。<br><br>
+文書フォルダに適切なフォルダ名を機械的に命名する研究において、
+<a href="view-source:file://wsl.localhost/Ubuntu/home/ubuntu/github/Deploy/public/AI/public5/index.html">先行研究</a>
+によりSVMを使用する方法では上手く命名できなかったという実験結果が示された。<br><br>
 そこで、本実験ではWordNetを使用する方法でラベル推定を試みた。<br><br>
 
 
