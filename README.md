@@ -62,7 +62,7 @@ reverse.py<br>
 
 
 <h3>実験結果</h3>
-[1] <a href="https://user-images.githubusercontent.com/116938721/220819462-68c24e10-c107-44a9-aeb1-4b5d9c021e80.jpg">結果1</a><br>
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/116938721/229690038-62cde0c9-9999-4f81-8ec0-b64473841fb2.png">
 [2] <a href="https://user-images.githubusercontent.com/116938721/220819506-5b8ae82a-d975-4a15-baa5-092b5fff3d5c.jpg">結果2</a><br>
 [3] <a href="https://user-images.githubusercontent.com/116938721/220819524-a1fcac1b-77d2-435f-847b-6d1b3721f441.jpg">結果3</a><br><br>
 
